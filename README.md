@@ -22,7 +22,7 @@ Punto de Control #09 en C++ mostrara:
 3.
 
 ## :computer: Código
-- :blue_book: [Punto de Control #08] (https://github.com/m-rojas18/C_PDC8.git)
+- :blue_book: [Punto de Control #09] (https://github.com/m-rojas18/C_PDC9.git)
 
 #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
