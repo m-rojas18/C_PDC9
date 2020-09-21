@@ -133,9 +133,9 @@ Punto de Control #09 en C++ mostrara:
 
 ## :black_large_square: 13) acceso_aleratorio.cpp
 ![](Imagenes/acceso_aleatorio.png)
-## :large_blue_circle: Contacto.hpp
+## :large_blue_diamond:Contacto.hpp
 ![](Imagenes/Contacto_hpp.png)
-## :large_blue_circle: Contacto.cpp
+## :large_blue_diamond: Contacto.cpp
 ![](Imagenes/Contacto_cpp.png)
 ## :red_circle: Salida:
 ![](Imagenes/Salida_acceso_aleatorio.png)
@@ -146,7 +146,12 @@ Punto de Control #09 en C++ mostrara:
 ## Asignación 2
 
 ## :large_blue_circle: acceso_aleatorio.cpp
-![](Asignacion 2/asignacion2.png)
+![](Asignacion_2/asignacion2.png)
+
+## :large_blue_diamond: Contacto.hpp
+![](Imagenes/Contacto_hpp.png)
+## :large_blue_diamond: Contacto.cpp
+![](Imagenes/Contacto_cpp.png)
 
 
 
