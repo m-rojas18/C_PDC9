@@ -21,7 +21,7 @@ Punto de Control #09 en C++ mostrara:
 
 3.
 
-## Asignación 1
+## :pencil2: Asignación 1
 
 ## :black_large_square: 1) eof_get_y_put.cpp
 ![](Imagenes/eof_get_y_put.png)
@@ -143,11 +143,10 @@ Punto de Control #09 en C++ mostrara:
 ## Descripcion:
 ->
 
-## Asignación 2
+## :pencil2: Asignación 2
 
 ## :large_blue_circle: acceso_aleatorio.cpp
 ![](Asignacion_2/asignacion2.png)
-
 ## :large_blue_diamond: Contacto.hpp
 ![](Imagenes/Contacto_hpp.png)
 ## :large_blue_diamond: Contacto.cpp
@@ -158,14 +157,14 @@ Punto de Control #09 en C++ mostrara:
 ## Descripción
 ->
 
-## Asignación 3
+## :pencil2: Asignación 3
 
 ## :white_large_square: acceso_aleatorio.cpp
 ![](Asignacion_3/asignacion3_main.png)
-## :large_orange_diamond:
+## :large_orange_diamond: Operaciones.hpp
 ![](Asignacion_3/Operaciones_hpp.png)
-## :large_orange_diamond:
-[](Asignacion_3/Operaciones_cpp.png)
+## :large_orange_diamond: Operaciones.cpp
+![](Asignacion_3/Operaciones_cpp.png)
 ## :large_orange_diamond: Contacto.hpp
 ![](Imagenes/Contacto_hpp.png)
 ## :large_orange_diamond: Contacto.cpp
