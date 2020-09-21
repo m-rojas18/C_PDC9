@@ -132,11 +132,11 @@ Punto de Control #09 en C++ mostrara:
 ->
 
 ## :black_large_square: 13) acceso_aleratorio.cpp
-
+![](Imagenes/acceso_aleatorio.png)
 ## :large_blue_circle: Contacto.hpp
-
+![](Imagenes/Contacto_hpp.png)
 ## :large_blue_circle: Contacto.cpp
-
+![](Imagenes/Contacto_cpp.png)
 ## :red_circle: Salida:
 
 
