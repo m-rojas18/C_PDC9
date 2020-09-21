@@ -87,7 +87,7 @@ Punto de Control #09 en C++ mostrara:
 ![](Imagenes/Salida_cout-width.png)
 
 ## Descripción:
-->   El programa muestra el uso de el metodo .width() para mostrar el tamaño de una cadena.
+->   El programa muestra el uso de el metodo .width() para mostrar el ancho de una cadena.
 
 ## :black_large_square: 8) cout-setw.cpp
 ![](Imagenes/cout-setw.png)
