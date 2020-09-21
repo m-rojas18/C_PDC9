@@ -145,6 +145,11 @@ Punto de Control #09 en C++ mostrara:
 
 ## Asignación 2
 
+## :large_blue_circle: acceso_aleatorio.cpp
+![](Asignacion 2/asignacion2.png)
+
+
+
 
 
 ## Asignación 3
