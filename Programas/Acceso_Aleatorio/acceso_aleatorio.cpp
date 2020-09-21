@@ -36,6 +36,8 @@ void cambios(fstream &fcont) {
     leer_el_3(fcont, cont);
 }
 int main() {
+    fstream fcont0("contactos.dat", ios::out);
+    fcont0.close();
     fstream fcont("contactos.dat", ios::in | ios::out | ios::binary );
     escribir_o_leer(fcont, true);
     cout << "ANTES:" << endl;
