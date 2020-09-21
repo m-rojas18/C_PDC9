@@ -23,6 +23,13 @@ Punto de Control #09 en C++ mostrara:
 
 ## Asignación 1
 
+## :black_large_square: 1) eof_get_y_put.cpp
+![](Imagenes/eof_get_y_put.png)
+
+## :red_circle: Salida:
+![](Imagenes/Salida_eof_get_y_put.png)
+
+## Descripción:
 
 ## Asignación 2
 
