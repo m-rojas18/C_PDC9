@@ -131,6 +131,13 @@ Punto de Control #09 en C++ mostrara:
 ## Descripción:
 ->
 
+## :black_large_square: 13) acceso_aleratorio.cpp
+
+## :large_blue_circle: Contacto.hpp
+
+## :large_blue_circle: Contacto.cpp
+
+## :red_circle: Salida:
 
 
 ## Asignación 2
