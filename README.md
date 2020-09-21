@@ -152,11 +152,29 @@ Punto de Control #09 en C++ mostrara:
 ![](Imagenes/Contacto_hpp.png)
 ## :large_blue_diamond: Contacto.cpp
 ![](Imagenes/Contacto_cpp.png)
+## :red_circle: Salida
+![](Asignacion_2/Salida_asignacion2.png)
 
 ## Descripción
 ->
 
 ## Asignación 3
+
+## :white_large_square: acceso_aleatorio.cpp
+![](Asignacion_3/asignacion3_main.png)
+## :large_orange_diamond:
+![](Asignacion_3/Operaciones_hpp.png)
+## :large_orange_diamond:
+[](Asignacion_3/Operaciones_cpp.png)
+## :large_orange_diamond: Contacto.hpp
+![](Imagenes/Contacto_hpp.png)
+## :large_orange_diamond: Contacto.cpp
+![](Imagenes/Contacto_cpp.png)
+## :red_circle: Salida:
+![](Asignacion_3/Salida_Asignacion3.png)
+## Descripción:
+->
+
 
 ## :computer: Código
 - :blue_book: [Punto de Control #09] (https://github.com/m-rojas18/C_PDC9.git)
