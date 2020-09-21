@@ -153,9 +153,8 @@ Punto de Control #09 en C++ mostrara:
 ## :large_blue_diamond: Contacto.cpp
 ![](Imagenes/Contacto_cpp.png)
 
-
-
-
+## Descripción
+->
 
 ## Asignación 3
 
